@@ -1,0 +1,10 @@
+tasks:
+  - init: |
+      pip install numpy
+      pip install pandas
+      pip install spicy
+      pip install matplotlib
+      pip install seaborn
+      pip install ipython
+    # command: |
+    #   echo 'TODO: start app'
