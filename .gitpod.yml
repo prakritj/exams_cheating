@@ -3,7 +3,7 @@ tasks:
       /home/gitpod/.pyenv/versions/3.8.12/bin/python3 -m pip install --upgrade pip
       pip install numpy
       pip install pandas
-      pip install spicy
+      pip install scipy
       pip install matplotlib
       pip install seaborn
       pip install ipython
