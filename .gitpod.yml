@@ -9,6 +9,7 @@ tasks:
       pip install matplotlib
       pip install seaborn
       pip install ipython
+      pip install shapely
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 # ports:
