@@ -2,7 +2,7 @@
 tasks:
   - before: |
       /home/gitpod/.pyenv/versions/3.8.12/bin/python3 -m pip install --upgrade pip
-      pip install numpy pandas scipy matplotlib seaborn ipython shapely
+      pip install numpy pandas scipy matplotlib seaborn shapely
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 # ports:
